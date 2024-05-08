@@ -1,0 +1,199 @@
+{
+  "home": {
+
+    "name": "Mohammed Altyeb",
+    "developer": "Full Stack Developer and Designer UI UX",
+    "switchLanguage": " ar"
+  },
+
+  "skills": {
+    "skills": "Skills",
+    "All": "All",
+    "Frontend": "Frontend",
+    "Backend": "Backend",
+    
+    "UI/UX": "UI/UX"
+  },
+
+  "myWorks": {
+    "portfolio": "My Portfolio",
+    "view": "View"
+  },
+  "categories": {
+    "All": "All",
+    "Frontend": "Frontend",
+    "Backend": "Backend",
+    "UI/UX": "UI/UX"
+  }
+  ,
+  "header": {
+    "logoText": "R7",
+    "navHome": "Home",
+    "navSkills": "Skills",
+    "navBlog" : "Blog",
+    "navWorks": "Works",
+    "navContact": "Contact me"
+  },
+  "footer": {
+    "footerText": " All rights reserved.",
+    "footerLink": "Mohammed Altyeb"
+    
+  },
+  
+
+  "tutorial": {
+    "heading": "Getting Started with React",
+    "intro": "ReactJS is a JavaScript library for building user interfaces. React allows you to build efficient and maintainable user interface applications using the concepts of component trees and efficient updates.",
+    "steps": "To get started with React, you can follow these steps:",
+    "environmentSetup": "Set up the development environment:",
+    "createReactApp": "Create a new React app by running the following command:",
+    "navigateToFolder": "Navigate to the new app folder:",
+    "runApp": "Run the app using the command:",
+    "editFiles": "Now, you can start editing the application files and working on developing your own React app.",
+    "example1": "Example of a Simple React App:",
+    "example2": "Another Example:"
+  },
+  
+    "flutterTutorial": {
+      "heading": "Getting Started with Flutter",
+      "intro": "Flutter is a framework for building user interfaces. It allows you to create stunning, beautiful applications for mobile and web from a single codebase. Flutter boasts a fast and delightful UI design, providing an efficient development experience.",
+      "steps": "To get started with Flutter, you can follow these steps:",
+      "installFlutter": "Install Flutter on your operating system using the following command:",
+      "checkInstallation": "Check Flutter installation by running the command:",
+      "createFlutterApp": "Create a new Flutter app using the following command:",
+      "navigateToFolder": "Navigate to the new app folder:",
+      "runApp": "Run the app using the command:",
+      "editFiles": "Now, you can start editing the app files and work on developing your own app using Flutter.",
+      "example1": "Example of a simple Flutter app:",
+      "example2": "Another example:"
+    },
+    "vueTutorial": {
+      "heading": "Getting Started with Vue",
+      "intro": "Vue is a progressive framework for building user interfaces. It allows you to build efficient and maintainable user interface applications using the concepts of component trees and efficient updates.",
+      "steps": "To get started with Vue, you can follow these steps:",
+      "environmentSetup": "Set up the development environment:",
+      "createVueApp": "Create a new Vue app by running the following command:",
+      "navigateToFolder": "Navigate to the new app folder:",
+      "runApp": "Run the app using the command:",
+      "editFiles": "Now, you can start editing the application files and working on developing your own Vue app.",
+      "example1": "Example of a Simple Vue App:",
+      "example2": "Another Example:"
+    },
+    "angularTutorial": {
+      "heading": "Getting Started with Angular",
+      "intro": "Angular is a framework for building user interfaces. It allows you to build efficient and maintainable user interface applications using the concepts of component trees and efficient updates.",
+      "steps": "To get started with Angular, you can follow these steps:",
+      "environmentSetup": "Set up the development environment:",
+      "createAngularApp": "Create a new Angular app by running the following command:",
+      "navigateToFolder": "Navigate to the new app folder:",
+      "runApp": "Run the app using the command:",
+      "editFiles": "Now, you can start editing the application files and working on developing your own Angular app.",
+      "example1": "Example of a Simple Angular App:",
+      "example2": "Another Example:"
+    },
+    "reactNativeTutorial": {
+      "heading": "Getting Started with React Native",
+      "intro": "React Native is a framework for building user interfaces. It allows you to build efficient and maintainable user interface applications using the concepts of component trees and efficient updates.",
+      "steps": "To get started with React Native, you can follow these steps:",
+      "environmentSetup": "Set up the development environment:",
+      "createReactNativeApp": "Create a new React Native app by running the following command:",
+      "navigateToFolder": "Navigate to the new app folder:",
+      "runApp": "Run the app using the command:",
+      "editFiles": "Now, you can start editing the application files and working on developing your own React Native app.",
+      "example1": "Example of a Simple React Native App:",
+      "example2": "Another Example:"
+    },
+    "ionicTutorial": {
+      "heading": "Getting Started with Ionic",
+      "intro": "Ionic is a framework for building user interfaces. It allows you to build efficient and maintainable user interface applications using the concepts of component trees and efficient updates.",
+      "steps": "To get started with Ionic, you can follow these steps:",
+      "environmentSetup": "Set up the development environment:",
+      "createIonicApp": "Create a new Ionic app by running the following command:",
+      "navigateToFolder": "Navigate to the new app folder:",
+      "runApp": "Run the app using the command:",
+      "editFiles": "Now, you can start editing the application files and working on developing your own Ionic app.",
+      "example1": "Example of a Simple Ionic App:",
+      "example2": "Another Example:"
+    },
+    "flutter": {
+      "heading": "Flutter",
+      "intro": "Flutter is a framework for building user interfaces. It allows you to create stunning, beautiful applications for mobile and web from a single codebase. Flutter boasts a fast and delightful UI design, providing an efficient development experience.",
+      "steps": "To get started with Flutter, you can follow these steps:",
+      "installFlutter": "Install Flutter on your operating system using the following command:",
+      "checkInstallation": "Check Flutter installation by running the command:",
+      "createFlutterApp": "Create a new Flutter app using the following command:",
+      "navigateToFolder": "Navigate to the new app folder:",
+      "runApp": "Run the app using the command:",
+      "editFiles": "Now, you can start editing the app files and work on developing your own app using Flutter.",
+      "example1": "Example of a simple Flutter app:",
+      "example2": "Another example:"
+    },
+    "vue": {
+      "heading": "Vue",
+      "intro": "Vue is a progressive framework for building user interfaces. It allows you to build efficient and maintainable user interface applications using the concepts of component trees and efficient updates.",
+      "steps": "To get started with Vue, you can follow these steps:",
+      "environmentSetup": "Set up the development environment:",
+      "createVueApp": "Create a new Vue app by running the following command:",
+      "navigateToFolder": "Navigate to the new app folder:",
+      "runApp": "Run the app using the command:",
+      "editFiles": "Now, you can start editing the application files and working on developing your own Vue app.",
+      "example1": "Example of a Simple Vue App:",
+      "example2": "Another Example:"
+    },
+    "angular": {
+      "heading": "Angular",
+      "intro": "Angular is a framework for building user interfaces. It allows you to build efficient and maintainable user interface applications using the concepts of component trees and efficient updates.",
+      "steps": "To get started with Angular, you can follow these steps:",
+      "environmentSetup": "Set up the development environment:",
+      "createAngularApp": "Create a new Angular app by running the following command:",
+      "navigateToFolder": "Navigate to the new app folder:",
+      "runApp": "Run the app using the command:",
+      "editFiles": "Now, you can start editing the application files and working on developing your own Angular app.",
+      "example1": "Example of a Simple Angular App:",
+      "example2": "Another Example:"
+    },
+    "flutterVsReactNative": {
+      "heading": "Flutter vs React Native",
+      "intro": "Flutter and React Native are two of the most popular frameworks for building user interfaces. They both allow you to build efficient and maintainable user interface applications using the concepts of component trees and efficient updates. However, they differ in many ways.",
+      "flutter": "Flutter",
+      "reactNative": "React Native",
+      "language": "Language",
+      "dart": "Dart",
+      "javascript": "JavaScript",
+      "performance": "Performance",
+      "fast": "Fast",
+      "slow": "Slow",
+      "ui": "UI",
+      "native": "Native",
+      "hybrid": "Hybrid",
+      "hotReload": "Hot Reload",
+      "yes": "Yes",
+      "no": "No",
+      "community": "Community",
+      "small": "Small",
+      "large": "Large",
+      "documentation": "Documentation",
+      "good": "Good",
+      "bad": "Bad",
+      "learningCurve": "Learning Curve",
+      "easy": "Easy",
+      "hard": "Hard",
+      "example1": "Example of a Simple Flutter App:",
+      "example2": "Example of a Simple React Native App:"
+    },
+    
+      "blog": {
+        "react-app.title": "Creating an Application Using React",
+        "react-app.content": "In this article, we will guide you through the process of creating a React application from scratch. We'll cover setting up the development environment, creating components, managing state, and integrating with external APIs. By the end of this guide, you will have a strong understanding of building React applications.",
+        "flutter-app.title": "Creating an Application Using Flutter",
+        "flutter-app.content": "In this comprehensive guide, we will walk you through the process of building a mobile application using Flutter. We'll cover the widget system in Flutter, state management, and navigation. Additionally, you'll learn how to deploy your Flutter application on iOS and Android platforms, providing a seamless user experience across devices."
+      }
+    
+    
+
+
+  
+  
+}
+
+

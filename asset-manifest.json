@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my_profilo/static/css/main.58306844.css",
+    "main.js": "/my_profilo/static/js/main.c37c4914.js",
+    "static/js/787.9293d81a.chunk.js": "/my_profilo/static/js/787.9293d81a.chunk.js",
+    "static/media/GellatioRegular.ttf": "/my_profilo/static/media/GellatioRegular.c1385040c9d5e1e13a39.ttf",
+    "index.html": "/my_profilo/index.html",
+    "main.58306844.css.map": "/my_profilo/static/css/main.58306844.css.map",
+    "main.c37c4914.js.map": "/my_profilo/static/js/main.c37c4914.js.map",
+    "787.9293d81a.chunk.js.map": "/my_profilo/static/js/787.9293d81a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58306844.css",
+    "static/js/main.c37c4914.js"
+  ]
+}

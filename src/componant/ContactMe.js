@@ -11,15 +11,15 @@ const ContactMe = () => {
               <IconBrandX   />
                 
                 </a>
-              <a  className=' icon-connect w-9  h-9 flex items-center justify-center  rounded-full border-2' rel="noopener noreferrer" target="_blank" href="https://github.com/HSN4">
+              <a  className=' icon-connect w-9  h-9 flex items-center justify-center  rounded-full border-2' rel="noopener noreferrer" target="_blank" href="https://github.com/altyeb22">
               <IconBrandGithub   />
               </a>
               <a  className='icon-connect w-9  h-9 flex items-center justify-center  rounded-full border-2' rel="noopener noreferrer" target="_blank" 
-              href="https://www.linkedin.com/in/hussein-mohamed-alhamed-b81060217/">
+              href="https://www.linkedin.com/in/mohammed-altyeb-5b07b7262">
               <IconBrandLinkedin   />
                
                </a>
-              <a  className='icon-connect w-9  h-9 flex items-center justify-center  rounded-full border-2' rel="noopener noreferrer" target="_blank" href="https://www.telegram.com">
+              <a  className='icon-connect w-9  h-9 flex items-center justify-center  rounded-full border-2' rel="noopener noreferrer" target="_blank" href="https://t.me/alt7_dev">
               <IconBrandTelegram   />
                 
                 </a>
